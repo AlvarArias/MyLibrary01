@@ -6,7 +6,7 @@ Requiere : macOS 10.12.
 
 ## Installation
 
-To install this package, import 'URL here' in SPM
+To install this package, import 'https://github.com/AlvarArias/MyLibrary01.git' in SPM
 
 ## Usage example
 
